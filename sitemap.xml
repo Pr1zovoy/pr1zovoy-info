@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://pr1zovoy.github.io/pr1zovoy-info/</loc>
+    <loc>https://pr1zovoy-info.netlify.app/</loc>
   </url>
   <url>
-    <loc>https://pr1zovoy.github.io/pr1zovoy-info/profile.html</loc>
+    <loc>https://pr1zovoy-info.netlify.app/profile.html</loc>
   </url>
   <url>
-    <loc>https://pr1zovoy.github.io/pr1zovoy-info/tournaments.html</loc>
+    <loc>https://pr1zovoy-info.netlify.app/tournaments.html</loc>
   </url>
 </urlset>
